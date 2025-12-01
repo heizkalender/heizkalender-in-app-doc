@@ -3,7 +3,7 @@
 ## Heizen nach Raumbelegungsplan
 
 
-##Effizient heizen durch intelligente Kalendersteuerung
+## Effizient heizen durch intelligente Kalendersteuerung
 
 Heizen Sie nur dann, wenn Räume tatsächlich genutzt werden – automatisch und kalenderbasiert. Der Heizkalender verbindet Ihren Online-Terminkalender (Belegungs- oder Raumplan) mit Ihrer Smart-Home-Heizungssteuerung und sorgt dafür, dass Räume rechtzeitig warm und danach wieder energieeffizient temperiert sind.
 
