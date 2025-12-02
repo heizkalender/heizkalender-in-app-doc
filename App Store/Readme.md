@@ -78,7 +78,7 @@ Die App und Software sind kostenlos und als Beitrag zum Klimaschutz entwickelt w
 
 - Homematic CCU Zentrale von eQ-3 oder kompatibler Nachbau mit WebUI, wie z. B. OpenCCU
 - Homematic-Aktoren (Heizkörperthermostate usw.) von eQ-3
-- Die CCU muss mit dem Internetverbunden sein für den Zugriff auf einen externen Online-Kalender.
+- Die CCU muss mit dem Internet verbunden sein, um auf einen externen Online-Kalender zugreifen zu können.
 
 
 ### Anleitung und Support
